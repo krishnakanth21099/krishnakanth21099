@@ -1,17 +1,19 @@
 # Hi there, I'm Krishna Kanth Ravi Kumar! 👋
 
-I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India), dedicated to building scalable and efficient applications. Currently, I'm developing **Swadesic**, a market network platform.
+I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India), dedicated to building scalable and efficient applications. Currently, I'm developing **Swadesic**, a Social Marketplace platform.
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** Python
-- **Frameworks:** Django
+- **Languages:** Python, Dart, Node.js, Typescript
+- **Frameworks:** Django, Flutter
 - **APIs:** REST, GraphQL
 - **Databases:** PostgreSQL (Relational), Neo4j (Graph)
+- **Query Languages: **SQL, Cypher Query Language
+- **Operating Systems: **Linux, Windows
 
 ## 🛠️ Projects
 
-- **Swadesic:** A market network platform connecting businesses and individuals. [Learn more](https://github.com/krishnakanth21099/Swadesic)
+- **Swadesic:** A Social Marketplace platform connecting businesses and individuals. [Learn more](https://github.com/krishnakanth21099/Swadesic)
 
 ## 📈 GitHub Stats
 
@@ -26,7 +28,7 @@ I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India),
 
 ## 📫 Contact Me
 
-Feel free to reach out via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-kumar-krishna-kanth).
+Feel free to reach out via [email](mailto:krishnakanthr99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-kumar-krishna-kanth).
 
 ---
 
