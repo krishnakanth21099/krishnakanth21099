@@ -25,10 +25,11 @@ Currently, I’m working on **Swadesic**, a Social Marketplace that’s all abou
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakanth21099&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnakanth21099&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=krishnakanth21099&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakanth21099&theme=react-dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakanth21099&show_icons=true&theme=radical)  
+
 
 ---
 
