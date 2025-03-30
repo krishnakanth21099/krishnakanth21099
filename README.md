@@ -19,6 +19,9 @@ I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India),
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakanth21099&show_icons=true&theme=radical)
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakanth21099)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnakanth21099-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-krishna-kanth)
