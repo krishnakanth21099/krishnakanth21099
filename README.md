@@ -22,6 +22,16 @@ I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India),
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnakanth21099&theme=radical)
 
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=krishnakanth21099&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakanth21099&theme=react-dark)
+
+## Recent Commits
+[![Krishna's Recent Commits](https://github-readme-commits.vercel.app/api?user=krishnakanth21099&theme=radical)](https://github.com/krishnakanth21099)
+
+
 
 ## 🌐 Connect with Me
 
