@@ -19,8 +19,9 @@ I'm a passionate **Backend Developer** and **Entrepreneur** from Bharat (India),
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakanth21099&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakanth21099)
+## Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnakanth21099&theme=radical)
+
 
 ## 🌐 Connect with Me
 
