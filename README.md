@@ -19,7 +19,8 @@ Currently, I’m working on **Swadesic**, a Social Marketplace that’s all abou
 ## 🔨 Projects  
 
 - **Swadesic** – A **Social Marketplace** designed to bridge the gap between businesses and creators.  
-  Check it out 👉 [Swadesic GitHub](https://github.com/krishnakanth21099/Swadesic)  
+  Check it out 👉 [Swadesic](https://swadesic.sociallyx.com/).
+  Check out the app as well 👉 [Swadesic](https://play.google.com/store/apps/details?id=com.sociallyx.swadesic&hl=en_SG).
 
 ---
 
