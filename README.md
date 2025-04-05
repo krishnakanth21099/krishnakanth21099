@@ -1,26 +1,57 @@
 # 👋 Hey, I’m Krishna Kanth Ravi Kumar!  
 
-I’m a **Backend Developer** and **Entrepreneur** from **Bharat (India)**, passionate about building **scalable, high-performance applications**.  
-Currently, I’m working on **Swadesic**, a Social Marketplace that’s all about connecting businesses and individuals in a whole new way.  
+I'm a **Backend Developer** and **Entrepreneur** from **Bharat (India)**, passionate about building **scalable, secure, and high-performance systems**.
+Currently, I’m working on **Swadesic**, a Social Marketplace redefining how businesses and individuals discover, connect, and collaborate.
 
 ---
 
 ## 🚀 Tech Stack  
 
-- **Languages:** Python | Dart | Node.js | TypeScript  
-- **Frameworks:** Django | Flutter  
-- **APIs:** REST | GraphQL  
-- **Databases:** PostgreSQL (Relational) | Neo4j (Graph)  
-- **Query Languages:** SQL | Cypher  
-- **OS:** Linux | Windows  
-
+- **Languages:** Python · Dart · Node.js · TypeScript  
+- **Frameworks & Libraries:** Django · Flutter  
+- **APIs:** REST · GraphQL  
+- **Databases:** PostgreSQL (Relational) · Neo4j (Graph)  
+- **Query Languages:** SQL · Cypher  
+- **Servers & Caching:** Apache · Redis  
+- **Task Queues:** Celery · RabbitMQ  
+- **Containerization:** Docker  
+- **Version Control:** Git · GitHub  
+- **Operating Systems:** Linux · Windows
+- **Deployment:**  
+  - Backend: Manual workflow (Dev → QA → Prod) with plans to automate (**DevOps-aware**) 
+  - Mobile: Android app bundle releases via Google Play Console
+    
 ---
+
+### 🧪 Testing & Debugging
+
+- **API Testing:** Postman  
+- **Load Testing:** Apache JMeter  
+- **Debugging Tools:** Built-in IDE debuggers · Custom logging · Runtime profiling
+
+
+### 💻 IDEs & Code Editors
+
+- PyCharm · VS Code · Android Studio · Windsurf · Cursor · Trae IDE
+
+### 🛡️ Security Practices
+
+- **Authentication:** JWT (JSON Web Tokens)  
+- **Data Protection:** Fernet (AES-based symmetric encryption)  
+- **Encoding/Obfuscation:** Base32 · Base64  
+- **Secure API Design:** Token-based auth, HTTPS-only communication, Input Validation & Sanitization
+
+### 🧬 System Components
+
+- **Custom Messaging Server:** Node.js-based real-time messaging service built for Swadesic  
+- **Modular Backend Architecture:** Decoupled services for authentication, messaging, store AI, orders, social media, and more  
+- **Hybrid Database Engine:** PostgreSQL (transactions) + Neo4j (social graph modeling)
 
 ## 🔨 Projects  
 
-- **Swadesic** – A **Social Marketplace** designed to bridge the gap between businesses and creators.  
-  Check it out 👉 [Swadesic](https://swadesic.sociallyx.com/) and [Swadesic App](https://play.google.com/store/apps/details?id=com.sociallyx.swadesic&hl=en_SG).
-
+- **Swadesic** – A **Social Marketplace** designed to bridge the gap between businesses and creators.
+  - Check it out 👉 [Swadesic Website](https://swadesic.sociallyx.com/) · [Android App](https://play.google.com/store/apps/details?id=com.sociallyx.swadesic&hl=en_SG)
+  - 
 ---
 
 ## 📊 GitHub Stats  
