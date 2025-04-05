@@ -51,7 +51,7 @@ Currently, I’m working on **Swadesic**, a Social Marketplace redefining how bu
 
 - **Swadesic** – A **Social Marketplace** designed to bridge the gap between businesses and creators.
   - Check it out 👉 [Swadesic Website](https://swadesic.sociallyx.com/) · [Android App](https://play.google.com/store/apps/details?id=com.sociallyx.swadesic&hl=en_SG)
-  - 
+
 ---
 
 ## 📊 GitHub Stats  
