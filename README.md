@@ -66,10 +66,11 @@ Currently, I’m working on **Swadesic**, a Social Marketplace redefining how bu
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnakanth21099-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-krishna-kanth)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Krishna_K21099-blue?style=flat-square&logo=twitter)](https://twitter.com/Krishna_K21099)  
-[![Instagram](https://img.shields.io/badge/Instagram-krishna.kanth_21099-red?style=flat-square&logo=instagram)](https://www.instagram.com/krishna.kanth_21099)  
-[![Facebook](https://img.shields.io/badge/Facebook-krishna.ravi.52438-blue?style=flat-square&logo=facebook)](https://www.facebook.com/krishna.ravi.52438)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-krishna-kanth)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Krishna_K21099)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/krishna.kanth_21099)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/krishna.ravi.52438)  
+
 
 ---
 
