@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Krishna Kanth Ravi Kumar!  
 
-I'm a **Backend Developer** and **Entrepreneur** from **Bharat (India)**, passionate about building **scalable, secure, and high-performance systems**.
-Currently, I’m working on **Swadesic**, a Social Marketplace redefining how businesses and individuals discover, connect, and collaborate.
+I’m a **Backend-Focused Full-Stack Developer · System Architect · Entrepreneur** from **Bharat(India)**, passionate about building **scalable, secure, and high-performance systems.**  
+Currently building **Swadesic** — a Social Marketplace redefining how businesses and individuals connect and collaborate.
 
 ---
 
