@@ -61,6 +61,9 @@ Currently building **Swadesic** — a Social Marketplace redefining how business
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakanth21099&theme=react-dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakanth21099&show_icons=true&theme=radical)  
 
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakanth21099&layout=compact&hide=html,css&langs_count=6&theme=tokyonight)
 
 ---
 
